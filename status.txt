@@ -1,0 +1,11 @@
+lastreached = 12:00:00
+plug1 = off
+plug2 = off
+plug1_timer = none
+plug2_timer = none
+plug1_timer_end = 0
+plug2_timer_end = 0
+plug1_schedule = none
+plug2_schedule = none
+plug1_show = no
+plug2_show = no
